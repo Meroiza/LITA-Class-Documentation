@@ -21,3 +21,7 @@ This is where I documented my first project while learning Data Analysis with Th
   ```SQL
   SELECT * FROM TABLE 1
   WHERE CONDITION = TRUE
+
+## Data Visualization
+
+
