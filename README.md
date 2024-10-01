@@ -15,7 +15,7 @@ This is where I documented my first project while learning Data Analysis with Th
   ## Data Cleaning
 
   ## Data Exploration
-
+---
   ## Data Analysis
 
   ```SQL
